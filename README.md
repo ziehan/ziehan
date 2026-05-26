@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090303,45:450a0a,100:7f1d1d&text=Naziehan%20Labieb&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Systems%20%26%20Game%20Development&descAlignY=58&descSize=14" />
-
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=720&lines=Systems+Programming+%2F+Game+Development+%2F+Backend;Debugging-oriented+and+performance-minded;Computer+Engineering+Undergraduate+at+Universitas+Indonesia" />
@@ -25,9 +23,9 @@
 
 ## About Me
 
-Hi, I'm **Naziehan Labieb**, a Computer Engineering undergraduate at **Universitas Indonesia**.
+Computer Engineering undergraduate at **Universitas Indonesia** with interests in **systems programming**, **game engine**, **game development**, **backend engineering**, and **low-level performance optimization**.
 
-I am interested in **systems programming**, **game development**, **backend engineering**, and **low-level performance optimization**. I enjoy debugging, understanding how systems work internally, and building software with structured engineering principles.
+Focused on debugging, understanding how systems work internally, and building software with structured engineering principles.
 
 Currently focused on:
 
@@ -69,6 +67,8 @@ PORTING · GAME SYSTEMS · LOW-LEVEL DEBUGGING
 </div>
 
 ---
+
+## Featured Projects
 
 ## Featured Projects
 
@@ -118,6 +118,30 @@ A full-stack web application for tracking job applications across recruitment st
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 64-bit Automata Simulator
+
+**Digital Logic Simulator**  
+`VHDL`
+
+A 64-bit automata simulator built using VHDL for digital system simulation, with modular logic components and waveform-based behavior verification.
+
+</td>
+<td width="50%">
+
+### More Projects
+
+See more of my work on my portfolio and GitHub repositories.
+
+<a href="https://ziehan.me">
+  <img src="https://img.shields.io/badge/View%20Portfolio-ziehan.me-7f1d1d?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -128,6 +152,8 @@ A full-stack web application for tracking job applications across recruitment st
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziehan&show_icons=true&hide_border=true&title_color=ffffff&text_color=d4d4d4&icon_color=991b1b&bg_color=0d0303" />
 
+<br />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziehan&layout=compact&hide_border=true&title_color=ffffff&text_color=d4d4d4&bg_color=0d0303" />
 
 </div>
@@ -137,11 +163,12 @@ A full-stack web application for tracking job applications across recruitment st
 ## Current Direction
 
 ```txt
-Systems Programming
-Game Development
-Backend Engineering
+System Engineering
+Game Engine Development
+Runtime & Performance Optimization
 Low-level Debugging
-Performance-oriented Software
+Backend and Infrastructure Fundamentals
+Structured Software Architecture
 ```
 
 ---
