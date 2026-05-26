@@ -1,16 +1,162 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ziehan/ziehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090303,45:450a0a,100:7f1d1d&text=Naziehan%20Labieb&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Systems%20%26%20Game%20Development&descAlignY=58&descSize=14" />
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=720&lines=Systems+Programming+%2F+Game+Development+%2F+Backend;Debugging-oriented+and+performance-minded;Computer+Engineering+Undergraduate+at+Universitas+Indonesia" />
+
+<br />
+<br />
+
+<a href="https://ziehan.me">
+  <img src="https://img.shields.io/badge/Portfolio-ziehan.me-7f1d1d?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/ziehan">
+  <img src="https://img.shields.io/badge/GitHub-ziehan-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/naziehanlabieb">
+  <img src="https://img.shields.io/badge/LinkedIn-Naziehan%20Labieb-7f1d1d?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+Hi, I'm **Naziehan Labieb**, a Computer Engineering undergraduate at **Universitas Indonesia**.
+
+I am interested in **systems programming**, **game development**, **backend engineering**, and **low-level performance optimization**. I enjoy debugging, understanding how systems work internally, and building software with structured engineering principles.
+
+Currently focused on:
+
+```txt
+PORTING · GAME SYSTEMS · LOW-LEVEL DEBUGGING
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/C++-7f1d1d?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-450a0a?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-7f1d1d?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-450a0a?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-7f1d1d?style=for-the-badge&logo=javascript&logoColor=white" />
+
+### Web & Backend
+
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-450a0a?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-450a0a?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-7f1d1d?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-450a0a?style=for-the-badge&logo=redis&logoColor=white" />
+
+### Game, Embedded, and Tools
+
+<img src="https://img.shields.io/badge/LibGDX-7f1d1d?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/AVR%20Assembly-450a0a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VHDL-7f1d1d?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%2FWSL-450a0a?style=for-the-badge&logo=linux&logoColor=white" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Apex League
+
+**Top-Down Sports Action Game**  
+`Java · LibGDX`
+
+A 2D top-down vehicle-based sports game inspired by Rocket League. It includes player movement, ball interaction, scoring logic, and match flow.
+
+</td>
+<td width="50%">
+
+### Is There Anyone?
+
+**Top-Down Horror Game**  
+`Java · LibGDX`
+
+A top-down horror game featuring player exploration, ghost behavior, task completion, win condition logic, and Observer Pattern implementation.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Smart Door Lock System
+
+**Embedded Security Control**  
+`Arduino Uno · AVR Assembly`
+
+A smart door lock system using AVR Assembly with keypad input, LCD display, buzzer, LED indicators, timeout logic, and emergency alarm reset.
+
+</td>
+<td width="50%">
+
+### Applytics
+
+**Job Application Tracker**  
+`Next.js · Express.js · PostgreSQL · Redis`
+
+A full-stack web application for tracking job applications across recruitment stages, with REST APIs, reminders, notes, status history, and Redis caching.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziehan&show_icons=true&hide_border=true&title_color=ffffff&text_color=d4d4d4&icon_color=991b1b&bg_color=0d0303" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziehan&layout=compact&hide_border=true&title_color=ffffff&text_color=d4d4d4&bg_color=0d0303" />
+
+</div>
+
+---
+
+## Current Direction
+
+```txt
+Systems Programming
+Game Development
+Backend Engineering
+Low-level Debugging
+Performance-oriented Software
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7f1d1d" />
+
+<br />
+
+**Built with structure, restraint, and curiosity.**
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ziehan&style=flat-square&color=7f1d1d" />
+
+</div>
